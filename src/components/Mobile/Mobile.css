@@ -1,0 +1,12 @@
+.mobile {
+    background-color: rgb(179, 143, 179);
+    width: 60%;
+    margin: 0 auto;
+    border-radius: 15%;
+    box-shadow: 5px 5px 5px rgb(110, 110, 110);
+    padding: 10px;
+    color: rgb(131, 108, 51);
+    text-decoration: overline;
+    text-transform: capitalize;
+    text-shadow: 2px 3px 5px rgb(182, 201, 201);
+}

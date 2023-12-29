@@ -1,0 +1,17 @@
+[
+    {
+        "id": "1",
+        "price": 325,
+        "name": "Handwash"
+    },
+    {
+        "id": "2",
+        "price": 255,
+        "name": "Crime"
+    },
+    {
+        "id": "3",
+        "price": 125,
+        "name": "Facewash"
+    }
+]

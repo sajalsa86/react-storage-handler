@@ -1,0 +1,16 @@
+.cosmetics {
+    background-color: rgb(243, 201, 243);
+    width: 60%;
+    margin: 0 auto;
+    border-radius: 15%;
+    box-shadow: 5px 5px 5px gray;
+    padding: 20px;
+    color: rgb(117, 90, 20);
+    text-transform: capitalize;
+    text-shadow: 2px 3px 5px azure;
+    margin-right: 20px;
+}
+
+.cosmetics h2 {
+    text-decoration: overline;
+}
